@@ -26,7 +26,7 @@ SECRET_KEY = '67h=w5qrlds)kb7dfje2x6!an$_b18jgi=hi&pkk5c$q6(qb1)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://bug-tracker-10809.herokuapp.com/']
+ALLOWED_HOSTS = ['bug-tracker-10809.herokuapp.com']
 
 
 # Application definition
